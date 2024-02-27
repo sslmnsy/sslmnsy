@@ -1,27 +1,23 @@
-### Profil Developer
-
 ## Tentang Saya
-Selamat datang di profil GitHub saya! Saya seorang mahasiswi POLBAN dari jurusan Teknik Informatika. 
+Selamat datang di profil GitHub saya! Saya seorang mahasiswi POLBAN dari prodi D4 Teknik Informatika. Saya berdedikasi untuk memperdalam pengetahuan saya mengenai dunia teknologi dan pengembangan perangkat lunak. 
 
 ## Kepakaran
-    Computer Vision: Pengalaman dalam pengolahan gambar dan video, pengenalan pola, dan aplikasi kecerdasan buatan untuk interpretasi visual data.
-    Data Science: Keahlian dalam analisis data, machine learning, dan big data. Berpengalaman dalam menggunakan Python, R, TensorFlow, dan PyTorch untuk membangun model prediktif dan analitik.
+    **Bahasa C**: Memahami pemrograman sintaks bahasa C. 
 
 ## Pendidikan
-  Menjalani jurusan teknik Informaikt
+  -SMA Negeri 2 Karawang
+  -Politeknik Negeri Bandung
 
-Proyek dan Kontribusi
+## Proyek dan Kontribusi
 
-Saya telah berkontribusi pada berbagai proyek yang melibatkan analisis data kompleks, pengembangan algoritma machine learning, dan implementasi aplikasi computer vision. Beberapa highlight termasuk:
+Saya telah berkonstribusi dalam sebuah proyek 'Tugas Besar' untuk memenuhi penugasan akhir mata kuliah Dasar-Dasar Pemrograman. Beberapa konstribusi saya termasuk 
+- Membuat laporan akhir
+- Menyusun program untuk permainan tic tac toe 
 
-    Pengembangan sistem pengenalan objek real-time untuk aplikasi keamanan.
-    Analisis sentimen pada data sosial media menggunakan teknik NLP untuk memahami tren dan opini publik.
-
-Menghubungi Saya
+## Menghubungi Saya
 
 Untuk kolaborasi atau pertanyaan, jangan ragu untuk menghubungi saya melalui:
 
-    Email: email@example.com
-    LinkedIn: linkedin.com/in/yourprofile
+    Email: salma.nesya.tif423@polban.ac.id
 
 Terima kasih telah mengunjungi profil saya. Mari kita kolaborasi untuk membuat perubahan yang berarti melalui kekuatan teknologi!
